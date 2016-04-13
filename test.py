@@ -1,4 +1,4 @@
-from Parser import ExtendInIParser
+from parser import ExtendInIParser
 
 if __name__ == "__main__":
     conf = ExtendInIParser()
