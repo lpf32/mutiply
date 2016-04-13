@@ -1,6 +1,6 @@
 提供ini配置文件继承功能
-[NAME]
-[[FOOD]]
+|[NAME]
+|[[FOOD]]
 zhang=panpan
 
 
